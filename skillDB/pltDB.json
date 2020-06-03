@@ -1,0 +1,1076 @@
+{
+	"검신": [
+		{
+			"name": "무기의 극의",
+			"up_value": 0.014184397163120588,
+			"tier": "2",
+			"explain": null,
+			"reqlvl": "15"
+		},
+		{
+			"name": "검기상인",
+			"up_value": 0.0181818181818183,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "20"
+		}
+	],
+	"블러드이블": [
+		{
+			"name": "혈십자",
+			"up_value": 0.013633265167007469,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		},
+		{
+			"name": "프렌지",
+			"up_value": 0.012500000000000178,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		},
+		{
+			"name": "갈증",
+			"up_value": 0.008333333333333304,
+			"tier": "2",
+			"explain": null,
+			"reqlvl": "35"
+		}
+	],
+	"다크로드": [
+		{
+			"name": "달의 커튼",
+			"up_value": 0.008064516129032251,
+			"tier": "1",
+			"explain": "속강",
+			"reqlvl": "15"
+		},
+		{
+			"name": "몽롱한 눈의 브레멘",
+			"up_value": 0.008064516129032251,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		}
+	],
+	"인다라천": [
+		{
+			"name": "파동각인",
+			"up_value": 0.013636363636363447,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		},
+		{
+			"name": "정신이 번쩍!",
+			"up_value": 0.015037593984962516,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "25"
+		}
+	],
+	"악귀나찰": [
+		{
+			"name": "청혈투귀",
+			"up_value": 0.01538461538461533,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "25"
+		},
+		{
+			"name": "검귀의 도 마스터리",
+			"up_value": 0.016666666666666607,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "20"
+		}
+	],
+	"마제스티": [
+		{
+			"name": "견고의 대검 마스터리",
+			"up_value": 0.02026774524324937,
+			"tier": "1",
+			"explain": "2줄",
+			"reqlvl": "15"
+		},
+		{
+			"name": "속성의 소검 마스터리",
+			"up_value": 0.018996786042240643,
+			"tier": "1",
+			"explain": "2줄",
+			"reqlvl": "15"
+		},
+		{
+			"name": "쾌속의 도 마스터리",
+			"up_value": 0.01911288457089988,
+			"tier": "1",
+			"explain": "2줄",
+			"reqlvl": "15"
+		},
+		{
+			"name": "파쇄의 둔기 마스터리",
+			"up_value": 0.01908396946564883,
+			"tier": "1",
+			"explain": "2줄",
+			"reqlvl": "15"
+		},
+		{
+			"name": "마검일체",
+			"up_value": 0.013513513513513375,
+			"tier": "2",
+			"explain": null,
+			"reqlvl": "30"
+		}
+	],
+	"디어사이드": [
+		{
+			"name": "마검 제어",
+			"up_value": 0.019230769230769162,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "30"
+		},
+		{
+			"name": "파천세",
+			"up_value": 0.013392857142856984,
+			"tier": "2",
+			"explain": null,
+			"reqlvl": "15"
+		}
+	],
+	"네메시스": [
+		{
+			"name": "우시르의 저주",
+			"up_value": 0.01785714285714257,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		},
+		{
+			"name": "이보브",
+			"up_value": 0.01785714285714257,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "25"
+		}
+	],
+	"검제": [
+		{
+			"name": "삼화취정",
+			"up_value": 0.03333333333333344,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "20"
+		}
+	],
+	"패황": [
+		{
+			"name": "머슬 시프트",
+			"up_value": 0.012500000000000178,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "30"
+		}
+	],
+	"명왕": [
+		{
+			"name": "클로 마스터리",
+			"up_value": 0.01526717557251911,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "25"
+		},
+		{
+			"name": "도발",
+			"up_value": 0.016000000000000014,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "35"
+		}
+	],
+	"그랜드마스터": [
+		{
+			"name": "강렬한 테이크 다운",
+			"up_value": 0.016666666666666607,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		},
+		{
+			"name": "임팩트 콤비네이션",
+			"up_value": 0.014814814814814836,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "20"
+		}
+	],
+	"염황광풍제월": [
+		{
+			"name": "나선의 넨",
+			"up_value": 0.018000000000000016,
+			"tier": "1",
+			"explain": "자체딜있음",
+			"reqlvl": "20"
+		},
+		{
+			"name": "뇌명 : 사나운 빛의 넨수",
+			"up_value": 0.01538461538461533,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "30"
+		}
+	],
+	"염제폐월수화": [
+		{
+			"name": "나선의 넨",
+			"up_value": 0.016260162601626105,
+			"tier": "1",
+			"explain": "자체딜있으나 보정끔",
+			"reqlvl": "30"
+		},
+		{
+			"name": "뇌명 : 사나운 빛의 넨수",
+			"up_value": 0.016260162601626105,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "40"
+		}
+	],
+	"카이저": [
+		{
+			"name": "급소 지정",
+			"up_value": 0.018018018018017834,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "30"
+		},
+		{
+			"name": "머슬 시프트",
+			"up_value": 0.012500000000000178,
+			"tier": "2",
+			"explain": null,
+			"reqlvl": "30"
+		}
+	],
+	"용독문주": [
+		{
+			"name": "클로 마스터리",
+			"up_value": 0.007092198581560183,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "25"
+		},
+		{
+			"name": "도발",
+			"up_value": 0.008000000000000007,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "35"
+		}
+	],
+	"얼티밋디바": [
+		{
+			"name": "강렬한 테이크 다운",
+			"up_value": 0.0181818181818183,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		},
+		{
+			"name": "파워 슬램",
+			"up_value": 0.016666666666666607,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "20"
+		}
+	],
+	"커맨더": [
+		{
+			"name": "병기 숙련",
+			"up_value": 0.0181818181818183,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "20"
+		},
+		{
+			"name": "매거진 드럼",
+			"up_value": 0.008333333333333304,
+			"tier": "2",
+			"explain": "사격기",
+			"reqlvl": "15"
+		},
+		{
+			"name": "G-35L 섬광류탄",
+			"up_value": 0.008130081300812941,
+			"tier": "2",
+			"explain": null,
+			"reqlvl": "25"
+		}
+	],
+	"프라임": [
+		{
+			"name": "아크리액터",
+			"up_value": 0.016000000000000014,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "25"
+		},
+		{
+			"name": "로봇 엔지니어링",
+			"up_value": 0.013636363636363447,
+			"tier": "2",
+			"explain": "G제외",
+			"reqlvl": "15"
+		}
+	],
+	"디스트로이어": [
+		{
+			"name": "중화기 마스터리",
+			"up_value": 0.02590909090909088,
+			"tier": "1",
+			"explain": "2줄",
+			"reqlvl": "15"
+		},
+		{
+			"name": "오버부스트 팩",
+			"up_value": 0.009090909090909038,
+			"tier": "2",
+			"explain": null,
+			"reqlvl": "25"
+		}
+	],
+	"레이븐": [
+		{
+			"name": "스타일리쉬",
+			"up_value": 0.0181818181818183,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "20"
+		},
+		{
+			"name": "리볼버 강화",
+			"up_value": 0.016666666666666607,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		}
+	],
+	"크림슨로제": [
+		{
+			"name": "스타일리쉬",
+			"up_value": 0.0181818181818183,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "20"
+		},
+		{
+			"name": "리볼버 강화",
+			"up_value": 0.016666666666666607,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		}
+	],
+	"스톰트루퍼": [
+		{
+			"name": "중화기 마스터리",
+			"up_value": 0.02590909090909088,
+			"tier": "1",
+			"explain": "2줄",
+			"reqlvl": "15"
+		},
+		{
+			"name": "APG-63",
+			"up_value": 0.008064516129032251,
+			"tier": "2",
+			"explain": null,
+			"reqlvl": "25"
+		}
+	],
+	"프레이야": [
+		{
+			"name": "병기 숙련",
+			"up_value": 0.0181818181818183,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "20"
+		},
+		{
+			"name": "니트로 모터",
+			"up_value": 0.008333333333333304,
+			"tier": "2",
+			"explain": "사격기",
+			"reqlvl": "15"
+		},
+		{
+			"name": "G-35L 섬광류탄",
+			"up_value": 0.008130081300812941,
+			"tier": "2",
+			"explain": null,
+			"reqlvl": "25"
+		}
+	],
+	"옵티머스": [
+		{
+			"name": "트랜스포메이션",
+			"up_value": 0.012307692307692264,
+			"tier": "1",
+			"explain": "G제외",
+			"reqlvl": "25"
+		},
+		{
+			"name": "하이테크놀로지",
+			"up_value": 0.013636363636363447,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		}
+	],
+	"어센션": [
+		{
+			"name": "도그마 디바이스",
+			"up_value": 0.01739130434782621,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "20"
+		},
+		{
+			"name": "괴리 : 디멘션 할로우",
+			"up_value": 0.009130434782608797,
+			"tier": "2",
+			"explain": "괴리만",
+			"reqlvl": "15"
+		}
+	],
+	"아이올로스": [
+		{
+			"name": "태풍의 전조",
+			"up_value": 0.013636363636363447,
+			"tier": "2",
+			"explain": null,
+			"reqlvl": "30"
+		},
+		{
+			"name": "휘몰아치는 질풍의 봉 마스터리",
+			"up_value": 0.016666666666666607,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		}
+	],
+	"뱀파이어로드": [
+		{
+			"name": "블러드",
+			"up_value": 0.0181818181818183,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		},
+		{
+			"name": "블러드 혼",
+			"up_value": 0.0181818181818183,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "20"
+		}
+	],
+	"이터널": [
+		{
+			"name": "발현",
+			"up_value": 0.01785714285714257,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "25"
+		},
+		{
+			"name": "프로즌웨폰 마스터리",
+			"up_value": 0.008333333333333304,
+			"tier": "2",
+			"explain": null,
+			"reqlvl": "15"
+		},
+		{
+			"name": "아이스 로드",
+			"up_value": 0.00612244897959191,
+			"tier": "2",
+			"explain": "속강",
+			"reqlvl": "25"
+		}
+	],
+	"오블리비언": [
+		{
+			"name": "원소의 이해",
+			"up_value": 0.016666666666666607,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "30"
+		},
+		{
+			"name": "원소 융합",
+			"up_value": 0.004843918191603791,
+			"tier": "2",
+			"explain": "속강",
+			"reqlvl": "15"
+		},
+		{
+			"name": "엘레멘탈 실드",
+			"up_value": 0.004812834224599216,
+			"tier": "2",
+			"explain": "속강",
+			"reqlvl": "25"
+		}
+	],
+	"지니위즈": [
+		{
+			"name": "퍼밀리어와 친하게 지내기",
+			"up_value": 0.0181818181818183,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		},
+		{
+			"name": "쇼타임",
+			"up_value": 0.0072368421052631865,
+			"tier": "2",
+			"explain": "쿨감/일부적용",
+			"reqlvl": "20"
+		},
+		{
+			"name": "스위트 캔디바",
+			"up_value": 0.008928571428571175,
+			"tier": "2",
+			"explain": null,
+			"reqlvl": "25"
+		}
+	],
+	"아슈타르테": [
+		{
+			"name": "창 마스터리",
+			"up_value": 0.016666666666666607,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "20"
+		},
+		{
+			"name": "봉 마스터리",
+			"up_value": 0.016666666666666607,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "20"
+		},
+		{
+			"name": "니우의 전투술",
+			"up_value": 0.016666666666666607,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		}
+	],
+	"오버마인드": [
+		{
+			"name": "속성 마스터리",
+			"up_value": 0.015578512396694277,
+			"tier": "1",
+			"explain": "13.1% 복리증가",
+			"reqlvl": "30"
+		},
+		{
+			"name": "쇼타임",
+			"up_value": 0.010203428863868935,
+			"tier": "2",
+			"explain": "16% 복리증가",
+			"reqlvl": "20"
+		}
+	],
+	"이클립스": [
+		{
+			"name": "교감",
+			"up_value": 0.01739130434782621,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		},
+		{
+			"name": "환수 강화 오라",
+			"up_value": 0.014285714285714235,
+			"tier": "1",
+			"explain": "환수만",
+			"reqlvl": "15"
+		},
+		{
+			"name": "정령소환 : 융합정령 헤일롬",
+			"up_value": 0.0033039647577091102,
+			"tier": "2",
+			"explain": "속강",
+			"reqlvl": "60"
+		}
+	],
+	"(버프)헤카테": [
+		{
+			"name": "사악한 호기심",
+			"up_value": 0.01200000000000001,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "20"
+		}
+	],
+	"태을선인": [
+		{
+			"name": "퇴마의 서",
+			"up_value": 0.013043478260869712,
+			"tier": "1",
+			"explain": "공참제외",
+			"reqlvl": "30"
+		},
+		{
+			"name": "거병 마스터리",
+			"up_value": 0.007692307692307665,
+			"tier": "2",
+			"explain": null,
+			"reqlvl": "20"
+		}
+	],
+	"이모탈": [
+		{
+			"name": "환청",
+			"up_value": 0.018461538461538397,
+			"tier": "1",
+			"explain": "평타제외",
+			"reqlvl": "30"
+		},
+		{
+			"name": "낫 마스터리",
+			"up_value": 0.016666666666666607,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "20"
+		}
+	],
+	"저스티스": [
+		{
+			"name": "윌 드라이버",
+			"up_value": 0.016488046166529324,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		},
+		{
+			"name": "테크니컬 마스터리",
+			"up_value": 0.013636363636363447,
+			"tier": "2",
+			"explain": null,
+			"reqlvl": "20"
+		}
+	],
+	"세인트": [
+		{
+			"name": "용기의 은총",
+			"up_value": 0.01739130434782621,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		},
+		{
+			"name": "굳건한 의지",
+			"up_value": 0.013636363636363447,
+			"tier": "2",
+			"explain": null,
+			"reqlvl": "30"
+		}
+	],
+	"(버프)세라핌": [
+		{
+			"name": "십자가 마스터리",
+			"up_value": 0.01200000000000001,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "20"
+		}
+	],
+	"인페르노": [
+		{
+			"name": "성화",
+			"up_value": 0.01739130434782621,
+			"tier": "1",
+			"explain": "자체딜있으나 보정 끔",
+			"reqlvl": "25"
+		},
+		{
+			"name": "배틀액스 마스터리",
+			"up_value": 0.01739130434782621,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "20"
+		}
+	],
+	"천선낭랑": [
+		{
+			"name": "법력 강화",
+			"up_value": 0.016666666666666607,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "30"
+		},
+		{
+			"name": "천녀기우제",
+			"up_value": 0.016666666666666607,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "25"
+		}
+	],
+	"리디머": [
+		{
+			"name": "짊어진 자의 낫 마스터리",
+			"up_value": 0.016000000000000014,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		},
+		{
+			"name": "죄업에 짓눌린 육신",
+			"up_value": 0.0181818181818183,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		}
+	],
+	"그림리퍼": [
+		{
+			"name": "날카로운 단검",
+			"up_value": 0.019230769230769162,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "20"
+		},
+		{
+			"name": "암살기술",
+			"up_value": 0.012500000000000178,
+			"tier": "2",
+			"explain": null,
+			"reqlvl": "15"
+		}
+	],
+	"시라누이": [
+		{
+			"name": "인법 : 잔영 남기기",
+			"up_value": 0.020000000000000018,
+			"tier": "1",
+			"explain": "잔영기만",
+			"reqlvl": "35"
+		},
+		{
+			"name": "차크라 웨펀 숙련",
+			"up_value": 0.007518796992481258,
+			"tier": "2",
+			"explain": null,
+			"reqlvl": "25"
+		},
+		{
+			"name": "화염의 인",
+			"up_value": 0.0071428571428573395,
+			"tier": "2",
+			"explain": null,
+			"reqlvl": "25"
+		},
+		{
+			"name": "암영술",
+			"up_value": 0.009090909090909038,
+			"tier": "2",
+			"explain": null,
+			"reqlvl": "45"
+		}
+	],
+	"타나토스": [
+		{
+			"name": "발라크르의 맹약",
+			"up_value": 0.012857142857142812,
+			"tier": "1",
+			"explain": "평타제외",
+			"reqlvl": "40"
+		},
+		{
+			"name": "어둠의 고리",
+			"up_value": 0.004536290322580516,
+			"tier": "2",
+			"explain": "속강",
+			"reqlvl": "25"
+		}
+	],
+	"알키오네": [
+		{
+			"name": "쌍검 마스터리",
+			"up_value": 0.025602258563469427,
+			"tier": "1",
+			"explain": "1.2프로씩 50프로 비중이 증가함",
+			"reqlvl": "20"
+		},
+		{
+			"name": "단검 마스터리",
+			"up_value": 0.02208466696783562,
+			"tier": "1",
+			"explain": "0.3프로씩 쿨감 증가",
+			"reqlvl": "20"
+		},
+		{
+			"name": "히트엔드",
+			"up_value": 0.008403361344537785,
+			"tier": "2",
+			"explain": "50% 비중만",
+			"reqlvl": "15"
+		}
+	],
+	"세이비어": [
+		{
+			"name": "세라픽 페더",
+			"up_value": 0.0181818181818183,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		},
+		{
+			"name": "세라픽 폴",
+			"up_value": 0.016949152542372836,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		}
+	],
+	"드레드노트": [
+		{
+			"name": "아스트라 소환",
+			"up_value": 0.01739130434782621,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "20"
+		},
+		{
+			"name": "대식가",
+			"up_value": 0.0181818181818183,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "35"
+		}
+	],
+	"가이아": [
+		{
+			"name": "체인러쉬",
+			"up_value": 0.01538461538461533,
+			"tier": "1",
+			"explain": "각성제외/자체딜있음",
+			"reqlvl": "30"
+		},
+		{
+			"name": "강인한 신념",
+			"up_value": 0.01538461538461533,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		}
+	],
+	"마신": [
+		{
+			"name": "혼혈",
+			"up_value": 0.0181818181818183,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		},
+		{
+			"name": "힘의 논리",
+			"up_value": 0.010909090909090757,
+			"tier": "2",
+			"explain": "방생/제노제외",
+			"reqlvl": "25"
+		}
+	],
+	"다크나이트": [
+		{
+			"name": "어둠의 대검 마스터리",
+			"up_value": 0.008746355685131268,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		},
+		{
+			"name": "어둠의 광검 마스터리",
+			"up_value": 0.009845288326300938,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		},
+		{
+			"name": "어둠의 소검 마스터리",
+			"up_value": 0.00929235167977116,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		},
+		{
+			"name": "어둠의 둔기 마스터리",
+			"up_value": 0.008746355685131268,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		},
+		{
+			"name": "어둠의 도 마스터리",
+			"up_value": 0.008746355685131268,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		}
+	],
+	"크리에이터": [
+		{
+			"name": "계열강화",
+			"up_value": 0.019230769230769162,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "25"
+		},
+		{
+			"name": "상상력",
+			"up_value": 0.013636363636363447,
+			"tier": "2",
+			"explain": null,
+			"reqlvl": "20"
+		}
+	],
+	"제노사이더": [
+		{
+			"name": "광창 마스터리",
+			"up_value": 0.016000000000000014,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		},
+		{
+			"name": "헌터즈 샤프니스",
+			"up_value": 0.01538461538461533,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "20"
+		}
+	],
+	"에레보스": [
+		{
+			"name": "어둠의 투창 마스터리",
+			"up_value": 0.016666666666666607,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "20"
+		},
+		{
+			"name": "잠식",
+			"up_value": 0.00612244897959191,
+			"tier": "2",
+			"explain": "속강",
+			"reqlvl": "15"
+		},
+		{
+			"name": "마창 폭주",
+			"up_value": 0.009090909090909038,
+			"tier": "2",
+			"explain": null,
+			"reqlvl": "30"
+		}
+	],
+	"듀란달": [
+		{
+			"name": "장창 숙련",
+			"up_value": 0.016666666666666607,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		},
+		{
+			"name": "미라지 부스트",
+			"up_value": 0.01739130434782621,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "25"
+		}
+	],
+	"워로드": [
+		{
+			"name": "마창 제어",
+			"up_value": 0.01538461538461533,
+			"tier": "2",
+			"explain": null,
+			"reqlvl": "15"
+		},
+		{
+			"name": "임팩트 스매쉬",
+			"up_value": 0.0201818181818183,
+			"tier": "1",
+			"explain": "자체딜있음",
+			"reqlvl": "25"
+		}
+	],
+	"언터처블": [
+		{
+			"name": "중검 마스터리",
+			"up_value": 0.020000000000000018,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "20"
+		},
+		{
+			"name": "화약 다루기",
+			"up_value": 0.013043478260869712,
+			"tier": "2",
+			"explain": null,
+			"reqlvl": "30"
+		}
+	],
+	"갓파더": [
+		{
+			"name": "장도 마스터리",
+			"up_value": 0.016000000000000014,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		},
+		{
+			"name": "숙련된 전문가",
+			"up_value": 0.01538461538461533,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "25"
+		}
+	],
+	"패스파인더": [
+		{
+			"name": "인젝션",
+			"up_value": 0.016000000000000014,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "25"
+		},
+		{
+			"name": "코어 블레이드 마스터리",
+			"up_value": 0.016000000000000014,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "20"
+		}
+	],
+	"레퀴엠": [
+		{
+			"name": "소태도 마스터리",
+			"up_value": 0.01739130434782621,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "20"
+		},
+		{
+			"name": "요원의 전투술",
+			"up_value": 0.01538461538461533,
+			"tier": "1",
+			"explain": null,
+			"reqlvl": "15"
+		}
+	]
+}
